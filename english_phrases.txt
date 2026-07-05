@@ -1,0 +1,11 @@
+﻿番号	英文	翻訳
+1	If I may, I'd like to tell you a true story.	よろしければ、ある実話をお話しさせてください。
+2	People were reluctant to go into it.	人々はその部屋に入るのを嫌がっていました。
+3	They spoke about it in lowered voices.	彼らは声を潜めてそのことについて話しました。
+4	They refused to have anything to do with it.	彼らはそれに関わることを一切拒みました。
+5	Please do not go near the room.	その部屋には近づかないでください。
+6	What is it that's holding you back?	あなたの（前進や上達の）妨げになっているものは何ですか？
+7	He was determined to prove everyone wrong.	彼はみんなが間違っていることを証明しようと決意していました。
+8	I will spend the night in that room.	私はその部屋で一晩過ごします。
+9	Could you get rid of it, please?	それを処分してもらえますか？
+10	The news traveled far and wide.	そのニュースは遠く広くまで伝わりました。
